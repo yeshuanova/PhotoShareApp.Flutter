@@ -1,4 +1,4 @@
-# photoshareapp_flutter
+# PhotoShareApp.Flutter
 
 顯示 [PhotoShareApp.Functions](https://github.com/yeshuanova/PhotoShareApp.Functions) 中所建立的縮圖與經過 Google Vision API 建立的 Label。
 
